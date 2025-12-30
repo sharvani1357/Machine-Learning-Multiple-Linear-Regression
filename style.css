@@ -21,9 +21,10 @@ html, body, .stApp {
     color:#080d13
 }
 
-h1,h2,h3{
-    color:#f1722a;
+h1, h2, h3 {
+    color: #000000;   /* black */
 }
+
 
 div[data-testid="metric-container"]{
     background-color:#080d13;
